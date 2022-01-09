@@ -13,7 +13,7 @@ In this project,we propose a "Satellite tracker" and "Satellite wiki" solution t
 A
 
 **Application Link & Future Scope:**\
-Link: .com \
+Link: https://github.com/ArjunMeh/Satellite-Info-and-Tracker \
 This application is meant to be a showcase and not a full scale version. There is a limited number of satellites to be tracked.
 
 Once the application is fully tested and deemed reliable,it can track additional satellites to expand it and make it useful for the college and community.
