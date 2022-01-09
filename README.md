@@ -10,7 +10,12 @@ In this project,we propose a "Satellite tracker" and "Satellite wiki" solution t
 ![image](https://user-images.githubusercontent.com/95991678/148686357-827c444d-5c97-4399-86fe-d6c59380a3fd.png)
 
 **Functionality & Concepts used:**\
-A
+This application has an interactive interference to help users track the satellites and read their information.
+Concepts used for functionality in the application:
+1) Android Jetpack(Navigation component): It is a suite of libraries to help with app development and reduce boilerplate code.
+2) Livedata: It is an observable data holder class. Unlike a regular observable, LiveData is lifecycle-aware, meaning it respects the lifecycle of other app components, such as activities, fragments, or services.
+3) Viewmodel: It is a class that is responsible for preparing and managing the data for an Activity or a Fragment.
+4) Room Database: It is a database layer on top of an SQLite database. Room uses the DAO to issue queries to its database.
 
 **Application Link & Future Scope:**\
 Link: https://github.com/ArjunMeh/Satellite-Info-and-Tracker \
